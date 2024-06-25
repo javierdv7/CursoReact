@@ -17,3 +17,7 @@ Instancia Vite
 	npm create vite@latest
 >Instala y preconfigura el esquema de archivos Vite + React
 
+Ejecución
+-
+	npm run dev
+ >Ejecuta el servidor por defecto en local: http://localhost:5173/
