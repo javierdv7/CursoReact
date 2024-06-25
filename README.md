@@ -6,7 +6,7 @@ Inicializar Proyecto
     npm init -y
  >Crea el 'package.json' con la información del proyecto.
 
- Inicializar Proyecto
+Creación de Carpetas
  -
 
     mkdir projects && cd projects
